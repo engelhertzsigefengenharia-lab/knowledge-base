@@ -1,0 +1,3 @@
+# Scripts Python
+
+Automações futuras.
