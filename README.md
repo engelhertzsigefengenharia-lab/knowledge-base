@@ -35,3 +35,36 @@ Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, r
 🚧 Em desenvolvimento
 
 Versão 0.1
+
+engelhertz-labs-br
+│
+├──────────────────────────────────────┐
+│                                      │
+│ knowledge-base                       │
+│                                      │
+│ Pesquisas                            │
+│ Artigos                              │
+│ Dados                               │
+│ Python                              │
+│ Dashboards                          │
+│ Modelagem                           │
+│ Diagramas                           │
+│ BI                                  │
+│                                      │
+└──────────────┬───────────────────────┘
+               │
+               │ fornece conhecimento
+               ▼
+┌──────────────────────────────────────┐
+│                                      │
+│ tcc-ii                               │
+│                                      │
+│ Introdução                           │
+│ Fundamentação                        │
+│ Metodologia                          │
+│ Desenvolvimento                      │
+│ Resultados                           │
+│ Defesa                               │
+│ Versão Final                         │
+│                                      │
+└──────────────────────────────────────┘
