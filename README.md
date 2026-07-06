@@ -1,8 +1,10 @@
 # SIGEF Engenharia - Knowledge Base
 
-Base oficial de documentação do projeto SIGEF.
+## Sistema Integrado para Gestão de Engenharia (SIGEF).
 
----
+## Objetivo
+
+## Base oficial de documentação do projeto SIGEF.
 
 ## Estrutura
 
